@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rigo
 - 👀 I’m interested in coding,AI,data analysis
 - 🌱 I’m currently learning reactjs, powerBI, MySQL, python
-- 💞️ I’m looking to collaborate on anything related to AI or coding
+- 💞️ I’m looking to collaborate on anything related to AI, coding or data analysis
 - 📫 How to reach me telegram(698648684)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: open minded
